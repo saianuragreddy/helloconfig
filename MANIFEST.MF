@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.helloworld.HelloConfig
+Class-Path: ./lib/commons-configuration.jar ./lib/commons-beanutils.jar
+./lib/commons-collections.jar ./lib/commons-digester.jar
+./lib/commons-lang.jar ./lib/commons-logging.jar ./lib/xercesImpl.jar
+./lib/xmlParserAPIs.jar ./lib/dom4j.jar
+
